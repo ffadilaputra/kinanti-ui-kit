@@ -19,7 +19,7 @@
   "homepage": "https://github.com/ffadilaputra/kinanti-ui-kit#readme",
   "dependencies": {
     "babel-register": "^6.26.0",
-    "browser-sync": "*",
+    "browser-sync": "2.24.7",
     "gulp": "*",
     "gulp-autoprefixer": "*",
     "gulp-concat": "*",
@@ -32,7 +32,7 @@
     "gulp-uglify": "*",
     "gulp-watch": "*",
     "gulp-zip": "*",
-    "jshint": "*"
+    "jshint": "2.9.6"
   },
   "devDependencies": {
     "babel-core": "^6.26.0",
